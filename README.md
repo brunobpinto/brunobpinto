@@ -2,8 +2,6 @@
 ### A Computer Engineering Student at PUC-Rio
 - 🌱 I’m currently learning **HTML, CSS, Django**
 - 📫 How to reach me **contato@brunobpinto.com**
-
-  ##
   
 <div align="center">
   <a href="https://github.com/brunobpinto">
