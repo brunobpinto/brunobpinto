@@ -10,7 +10,7 @@
   <img src="[https://raw.githubusercontent.com/brunobpinto/brunobpinto/main/banner-github.gif](https://raw.githubusercontent.com/brunobpinto/brunobpinto/main/banner-github.gif)"/>
 </div>
   
-  ![GIF](https://github.com/brunobpinto/BannerGIF/blob/main/banner-github.gif)
+  ![GIF](https://github.com/brunobpinto/brunobpinto/blob/main/banner-github.gif)
 
   ##
   
