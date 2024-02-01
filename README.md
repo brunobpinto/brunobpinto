@@ -2,9 +2,11 @@
 ### A Computer Engineering Student at PUC-Rio
 - 🌱 I’m currently learning **ARDUINO, C, C++**
 - 📫 How to reach me **contato@brunobpinto.com**
-- 🦾 I'm a member of one of the most pretigeous robotics team: **Riobotz PUC-Rio**
-- ⚙ And I'm currently engaged in a scientific initiation project, aimed at constructing an automated sandwich production line.
-  
+- 🦾 I'm a member of one of the most prestigious robotics teams: **Riobotz PUC-Rio**
+- ⚙ I'm currently involved in a scientific project to build an automated sandwich production line
+   
+##  
+
 <div align="center">
   <a href="https://github.com/brunobpinto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobpinto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
