@@ -1,6 +1,6 @@
 ## Hey, I'm Bruno 👋🏼
 ### A Computer Engineering Student at PUC-Rio
-- 🌱 I’m currently learning **HTML, CSS, Django**
+- 🌱 I’m currently learning **ARDUINO, C, C++**
 - 📫 How to reach me **contato@brunobpinto.com**
   
 <div align="center">
