@@ -1,6 +1,6 @@
 ## Hey, I'm Bruno 👋🏼
 ### A Computer Engineering Student at PUC-Rio
-- 🌱 I’m currently learning **C#, Blazor WebAssembly, .NET and SQL Server**
+- 🌱 I’m currently learning **.NET, C#, Blazor WebAssembly, and SQL Server**
 - 📫 How to reach me **contato@brunobpinto.com**
 - ⚙  Currently working as a **Full Stack Developer Intern** at ICAD Lab
 - 🦾 And I'm serving as a Teaching Assistant for the course **Microcontrollers Project**, that makes <br>really cool projects with Arduino and Raspberry Pi
