@@ -1,9 +1,9 @@
 ## Hey, I'm Bruno 👋🏼
 ### A Computer Engineering Student at PUC-Rio
-- 🌱 I’m currently learning **ARDUINO, C, C++**
+- 🌱 I’m currently learning **C#, Blazor WebAssembly, .NET and SQL Server**
 - 📫 How to reach me **contato@brunobpinto.com**
-- ⚙ I'm currently involved in a scientific project to build an automated sandwich production line
-- 🦾 And I'm a member of one of the most prestigious robotics teams: **Riobotz PUC-Rio**
+- ⚙  Currently working as a **Full Stack Developer Intern** at ICAD Lab
+- 🦾 And I'm serving as a Teaching Assistant for the course **Microcontrollers Project**, that makes <br>really cool projects with Arduino and Raspberry Pi
 
    
 ##  
@@ -34,7 +34,6 @@
 
   <a href="mailto:contato@brunobpinto.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/brunobpinto/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/brunobpinto_" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/871216321143144518" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a> 
  
  
